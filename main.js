@@ -25,21 +25,46 @@ const main = async (url) => {
     //console.log(html);
 
     const $ = cheerio.load(html);
+    let tabs = [];
+    //let tab = [];
     const articles = $('.d-grid').children().map(function (i, e) {
-        return {
+
+        // const title = $(this).find('.card-title').text();
+        // const imgLink = $(this).find('img').attr('src');
+        // const imgClass = $(this).find('img').attr('class');
+        // const productPageUrl = 'http://vps-a47222b1.vps.ovh.net:8484' + $(this).find('a').attr('href'); 
+        // const badgeContent = $(this).find('.badge').text();
+
+        // tabs.push({
+        //     title,
+        //     productPageUrl,
+        //     imgLink,
+        //     imgClass,
+        //     badgeContent
+        // });
+        let tab = {
             title : $(this).find('.card-title').text(),
             imgLink : $(this).find('img').attr('src'),
             imgClass : $(this).find('img').attr('class'),
-            productPageUrl : 'http://vps-a47222b1.vps.ovh.net:8484' + $(this).find('a').attr('href'), 
+            productPageUrl : 'http://vps-a47222b1.vps.ovh.net:8484' + $(this).find('a').attr('href'),
+            productPage  : ["description","price"],
             badgeContent : $(this).find('.badge').text()
-        }
+        };
+        const json = JSON.stringify(tab)
+        //console.log(tabs);
+        
+        return (json);
 
-    }).toArray();
+    }).get()
+    //let articlesJson = JSON.stringify(articles);
+    //console.dir(articlesJson, {'maxArrayLength': null, 'maxStringLength': null})
+    //console.dir(articles, {'maxArrayLength': null})
     console.log(articles)
     
 };
 
 let i = 0;
+
 allLinks = nextPageOnUrl();
 while(i<8) {
     //console.log(urlTab[i])
