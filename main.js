@@ -1,6 +1,9 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fetch = require('node-fetch');
+const fs = require('fs');
+const myConsole = new console.Console(fs.createWriteStream('./output.txt'));
+
 
 function nextPageOnUrl() {
     let i = 0;
@@ -25,7 +28,7 @@ const main = async (url) => {
     //console.log(html);
 
     const $ = cheerio.load(html);
-    let tabs = [];
+    //let tabs = [];
     //let tab = [];
     const articles = $('.d-grid').children().map(function (i, e) {
 
@@ -50,28 +53,39 @@ const main = async (url) => {
             productPage  : ["description","price"],
             badgeContent : $(this).find('.badge').text()
         };
-        const json = JSON.stringify(tab)
-        //console.log(tabs);
-        
-        return (json);
 
-    }).get()
+        
+        const json = JSON.stringify(tab)
+        console.log(json)+ console.log(",");
+        
+        //console.log(tab);
+        //myConsole.log(tab);
+        myConsole.log(json) + myConsole.log(",");
+        
+        //return tab;
+
+    })
     //let articlesJson = JSON.stringify(articles);
     //console.dir(articlesJson, {'maxArrayLength': null, 'maxStringLength': null})
     //console.dir(articles, {'maxArrayLength': null})
-    console.log(articles)
+    //console.log(articles.get())
+    //myConsole.log(articles.get());
     
 };
 
 let i = 0;
 
 allLinks = nextPageOnUrl();
+
 while(i<8) {
     //console.log(urlTab[i])
     let url = allLinks[i];
     main(url);
+
     i++;
 }
+
+//console.log(str);
 // const title = $(this).find('.card-title').text();
 //     const imgLink = $(this).find('img').attr('src');
 //     const imgClass = $(this).find('img').attr('class');

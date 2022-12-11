@@ -1,0 +1,240 @@
+{"title":"I'm Getting Too Old For This Crit - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882128/UG-Im-getting-too-old-for-this-Crit-SEPS-800x800-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/0b231038-991b-4f9e-a13e-e9e18bb02f05","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"You're Lucky I'm in a Great Mood - $9.60","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882557/TT-Youre-Lucky-Im-in-a-Good-Mood_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/3e0a0790-a5c8-4618-90c1-a999413038e6","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"My Happy Place (Cats) - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882157/TT---My-Happy-Place-cats-SEPs-800x800-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/f4ac519a-01ae-46b9-8354-3a4b299398e1","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Energy Capsule Needed - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882886/CAP-Energy-Capsule-Needed_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/d1a18235-394e-4177-9063-d2e4f531c049","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Celestial Dragon (Glow) - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880805/Celestial-Dragon_800x800-GLOW_SEPS_v1-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/63f0cb48-0de7-427f-acb2-610510b3cf4c","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Nya Felynes - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883010/CAP-Nya-Felynes_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/0dde0f1e-8274-4862-94cf-8e13e4490486","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Pew Pew Mega Man - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882888/CAP-Pew-Pew-Mega-Man_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/61e4d510-e19c-4acd-8ed3-f6a2a9477592","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Ryu Combo - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882883/CAP-SHIRT-Ryu-Combo_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/9688d91d-7da9-46cb-92a3-31ffe1b28ac8","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Santa Hug - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883076/TT-Santa-Hug_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/97432a7c-e8ff-4c88-b30e-fa34ab1f0af7","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Dungeon Meowster - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882532/TT-Dungeon-Meowster_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/8a3d65cf-92a7-4464-a404-c4b90c16ff72","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Rawrr! - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882556/TT-Rawrr_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/5eb6a3c4-fa14-4d05-8272-a3327d68f9d8","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Coffee is Magic - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882243/TT---Rainbow-Coffee_800x800_SEPs-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/aff04656-0715-4eac-aad6-b11dce42e42a","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Little Critter's Christmas - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883075/TT-Little-Critters-Christmas_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/4975cfcc-8b6d-4b99-99df-bf6faff1a74b","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Christmas is Coming! - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882281/TT---Christmas-is-Coming_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/48b582b4-a5b2-4d85-a68c-3991477a5896","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Unicorn Pride - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882714/TT-SHIRT-Unicorn-Pride_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/1ded1c71-1f32-4722-86ec-586eafad445f","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Chibi, Chibier, Squeee! - $9.60","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882525/TT-Chibi-Chibier-Squeee_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/2a2601dd-5327-4512-91f2-3ee209e26579","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Epic Cthulhu - $9.60","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880927/Epic-Cthulhu_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/eaa8ac84-28c3-49c6-be0a-b955c9c78670","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Floral Sun - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883111/TT-Floral-Sun_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/b42b1776-4060-4da1-8c63-12ddce558c22","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"D20 Landscape - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881834/D20-Landscape_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/f0fbcf4a-73f0-4a7b-9ade-3a2578187040","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I'm Raging on the Inside - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882859/HKF-Im-Raging-on-the-Inside_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/fce64f9b-e9c1-4c2b-9b0d-24bec8e0c342","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Reindeer Game Master - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883107/TT-Reindeer-Game-Master_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/e5d578e5-c0a8-4fa5-8234-5cb4019f006b","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Purriodic Table - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882526/TT-Purriodic-Table_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/835f4072-2e82-4d80-a8db-beea9dbff67e","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Let Me Overthink This - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882543/TT-Let-Me-Overthink-This_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/8b529208-ff3a-491a-b336-19069bd0b3b1","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Tale of Tails - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881880/TT-Tale-of-Tails_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/b9f78bca-f03e-49ef-969b-be624e270b84","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Seasonal Tree - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882693/TT-Seasonal-Tree_4200x4200_SEPS-1-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/dc98f81d-1d4d-4251-8f02-d3ff5b3173ab","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I Tried to be Nice - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883108/TT-I-Tried-To-Be-Nice_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/822c81ec-4eb0-4775-ab9b-adc96b7c86ab","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I'm Doing Side Quests - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880727/Im-Doing-Side-Quests_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/f5c2cc17-8df8-4684-85b5-b559515b3d77","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Frosty Friend - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883088/TT-Making-Snow-Friends_4200x4200_SEPS-1-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/6a0df006-cd92-43fb-ab9a-e3cbba9e6f69","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Sorry For the Accurate Things I Said - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882528/TT-Sorry-for-the-Accurate-Things-I-Said_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/7e76c6a2-9d85-43cd-b75e-00691fa84b9f","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"What Doesn’t Kill You Gives You XP - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882484/TT-What-Doesnt-Kill-You-Gives-You-XP_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/cd154782-d08f-462e-ad7a-e29d1ab113f0","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Rainbow Cat - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882471/TT-Rainbow-Cat_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/f0311961-64c6-45a0-8b98-3b2e8db11aea","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Tomorrow Will Probably Be Better - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880666/Tomorrow-Will-Probably-Be-Better_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/00a7178a-c5b9-425d-a494-1db055998c41","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Houston, I Have So Many Problems - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882657/TT-SHIRT-Houston-I-Have-So-Many-Problems_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/bb6ffccf-3587-4353-9853-c321e2789571","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Stego Night - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883122/TT-Stego-Night_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/f802704f-34bd-465d-add0-28dd12ca9666","productPage":["description","price"],"badgeContent":"NEW"}
+,
+{"title":"What Doesn't Kill You Gives You XP (Dragon) - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883125/TT-What-Doesnt-Kill-You-Gives-You-XP-Dragon_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/941a947a-5d7d-4200-aa4a-04f9f921380b","productPage":["description","price"],"badgeContent":"NEW"}
+,
+{"title":"I'm Done Talking - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883124/TT-Im-Done-Talking_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/a0ffff8d-bbe1-4889-9a8c-e7100baa889f","productPage":["description","price"],"badgeContent":"NEW"}
+,
+{"title":"Taiyaki Ice Cream - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883123/TT-Taiyaki-Ice-Cream_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/2bc3a09a-3ca3-403e-a1a0-e8390274ec2c","productPage":["description","price"],"badgeContent":"NEW"}
+,
+{"title":"Boba Hello Kitty - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882857/HKF-Boba-Hello-Kitty_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/630a77b6-7d01-45b6-9f65-3ff787ef1bae","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Tangled Up Axolotl - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882307/TT-Tangled-Up-Axolotl_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/94e5ad5a-f6ad-42df-86ba-96f5cbb0f6ba","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"My Melody and Kuromi - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882862/HKF-My-Melody-and-Kuromi_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/b84a4063-27c7-4ee6-a7f4-c3a7cfa9417e","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I Don’t Like Morning People. Or Mornings. Or People. - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882614/TT-I-Dont-Like-Morning-People-Or-Mornings-Or-People_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/83a34042-59d1-42d2-8d76-b9af9d5e5283","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"A Very Dino Christmas - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883073/TT-SHIRT-A-Very-Dino-Christmas_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/0e76f552-44cb-4b55-9a94-bac9e37a96e3","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Just A Couple of Cinnamorolls - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882858/HKF-Just-A-Couple-of-Cinnamorolls_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/88d3ed4c-31fc-43a0-b2ea-38e3585a404e","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"All Of The Otter Reindeer - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/All-of-the-Otter-Reindeer_ALT_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/a4ff93c9-4a71-4962-a0e3-513121a5f9c4","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I'm Doing My Best - $9.60","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880515/Im-Doing-My-Best_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/2d47afab-d4d9-4b14-bbab-32a6eb556fe3","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Have You Considered Using Common Sense? - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882202/TT---Have-You-Considered-Using-Common-Sense---Seps-800x800-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/7c7397e8-685b-4677-91e9-b67d7d850761","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"How About No? - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882927/TT-How-About-No-_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/b21ab3d7-b0a1-4644-bfcc-8dd11bba9f3e","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Floral Moon - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882601/TT-Floral-Moon_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/d32b7551-c698-4aa9-ad09-ee53825ea455","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Magical Forest - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882837/TT-SHIRT-Magical-Forest_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/d4deb134-41e1-427a-9801-4a6210858900","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Pew Pew Kitty (GLOW) - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/10151433225/Pew-Pew-Kitty-Glow-800x800-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/2c128d7c-d92c-4c9c-9e60-d87542e77fec","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I'm Not Always Sarcastic - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881753/Im-Not-Always-Sarcastic_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/382e03b7-ccd2-4e3b-92ea-e3bcf1d90e64","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Baking Spirits Bright - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881025/Baking-Spirits-Bright_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/9239eeb8-3fb9-4755-bfa1-27680e61edff","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Boo Sheet - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/Boo-Sheet-t-shirt-teeturtle-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/4b45b1bb-b790-4882-b761-cb3656803e1b","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I'm an Indoor Cat - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882353/TT-Im-an-Indoor-Cat_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/87193278-a9f2-4343-a94d-8129944450b1","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"X-Mas Rex - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881027/Xmas-Rex_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/48a6f051-9b26-4616-95f8-455bfe286919","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Seal of Disapproval - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880081/Seal-of-Disapproval_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/2e717f12-3986-48e4-b596-b645d09113cd","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Horror Crew - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882826/TT-SHIRT-Horror-Crew_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/059176a4-4496-4087-b67f-7813d79badbb","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Grim Kitty (Glow) - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/360260389/Grim-Kitty-Glow-800x800-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/634f2bdf-afe4-409f-8163-1fd7531bd65d","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Velociraptor - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882439/TT-Velociraptor_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/5f96aca6-3674-46c8-b971-19dea040277a","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Have Yourself a Scary Little Christmas - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882284/TT---Have-Yourself-a-Scary-Little-Christmas_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/ff426bfe-4fef-4f28-92b5-e8cd2e89d4d6","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I’m Just an NPC - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882470/TT-Im-just-an-NPC_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/a4d7ba35-395e-4ed2-807d-5082a31bd068","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"My Happy Place - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/445578_752757510_product-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/0a7633bc-8ccf-4d76-9cb2-117d7e6b80f7","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Looking Forward to a Silent Night - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882278/TT---Silent-Night_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/6c7cc05d-dcaa-4e2f-872f-ef6087775020","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Incorgnito - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/incorgnito-teeturtle-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/8d59771e-c019-4d49-ad31-fd1a38308497","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"You Somehow Killed the Troll with a Stick! - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882952/TT-You-Somehow-Killed-the-Troll-with-a-Stick_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/0e06c5e1-b6d6-4edf-b784-bebb26a4a61a","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Celestial Current - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882531/F4B5783D-343A-439B-9950-72D0B5E815E0-500x500.jpeg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/96c13cac-9505-45b8-8a9a-ccdf7aed151a","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"We Wish You a Lazy Christmas - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883059/TT-We-Wish-You-a-Lazy-Christmas_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/c338cac1-3dfa-4846-8ac6-6d24d64a4f3a","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I Didn't Want To Come - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/i-didn_t-want-to-come-teeturtle-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/8ef3506f-75f9-4e21-95dc-45b04cc586a2","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Elemental Kitsune - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880073/Elemental-Kitsune_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/e5f46016-addb-4bd0-ab88-58accac597dd","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I Might Need This Later - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880548/I-Might-Need-This-Later_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/908f92b1-e181-4937-a1c8-e8edfaff9c7f","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"The Four Elements - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881294/Earth-Fire-Water-and-Air-Dragons_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/bdc24acc-99ed-4073-b73d-c58d5045b8bc","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Good Day - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/good-day-t-shirt-teeturtle-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/c2922004-a909-4998-ad7d-81071ba9f1fc","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I'm a F***ing Delight - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880632/Im-a-Fucking-Delight_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/622bdb95-c234-436f-a785-e04e01daed07","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I Am a Gift - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883078/TT-SHIRT-I-Am-a-Gift_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/be9d42f6-3e4c-4642-bd57-2baf4c1a5f15","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Present Hoarder - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882283/TT---Present-Hoarder_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/7b75d15c-8a67-4ed9-899f-fcc008c1c2bb","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I'm Not a Damsel, I'm a Dragon - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881259/Im-Not-a-Damsel-Im-a-Dragon_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/55c56f21-cf2e-4581-907d-43592ecede48","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Christmas Dragon - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881073/Christmas-Dragon_800x800__SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/2795c5cb-f018-4c9f-b06c-a9d435dea3ab","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"A Dragon Appears - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/A-Dragon-Appears_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/94ec85f6-0be4-40d6-b5f1-80a46ebfff8d","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Here to Sleigh - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882290/TT--Here-to-Sleigh_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/562f4f9e-d6f0-43c9-a68c-228bc41a356c","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Succulent Garden - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882956/TT-Succulent-Garden_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/7dad7f8b-b7ad-4ccb-80ab-dc2a32d34005","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Boo Who - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882958/TT-Boo-Who_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/0c84c39f-3058-4100-864a-54dae0b0eac9","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Bedtime Lag - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881764/Bedtime-Lag_800x800_SEPS-1-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/261937ab-cac4-47de-a450-fb6ecc981fad","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"You're Lucky I Don’t Say What I’m Thinking - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883105/TT-Youre-Lucky-I-Dont-Say-What-Im-Thinking_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/7dc0520c-cbd1-44a6-a40b-18ebe4f8373b","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Spirit of the Moon - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880496/Spirit-of-the-Moon_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/3a7f4a6a-df8c-4963-aabc-1b931636110c","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I Control Your Fate - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881067/I-Control-Your-Fate_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/38898c64-788e-4218-bfa6-575e1fd75948","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"My Rig is My Happy Place - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880640/My-Rig-is-Myy-Happy-Place_800x800_SEPS-1-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/1e390e00-a6ea-4144-b6c0-c525f923e9a1","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Mystic Tea - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883112/TT-Mystic-Tea_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/96a3ad98-87b2-480d-a5f7-e0bcd486b379","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"You Matter - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882524/TT-You-Matter_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/03b9ad79-f619-43ef-83eb-120ba868ad71","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"He Sees You When You're Sleeping - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881076/He-Sees-You-When-Youre-Sleeping_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/1e85fa5e-a9e1-4ffc-b816-7c24448249a3","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Evil Genius - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883052/TT-Evil-Genius_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/2373269f-35ec-41a9-a825-1033fddd712d","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"It's That Time of Year - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880258/Its-That-Time-of-Year_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/8df1e271-8d81-4fec-8856-a4ba847b76d1","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Haunting Holidays - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883128/TT-Haunting-Holidays_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/07899967-93d8-4dcd-ae4d-9f878623bcc8","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Hippity Hoppity Your Soul is My Property (Glow) - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880909/Hippit-Hoppity-Your-Soul-is-My-Property_800x800-GLOW_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/ec0682e3-467a-4db4-9179-5be2362b395b","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Green Tea Dragon - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882846/TT-SHIRT-Green-Tea-Dragon_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/a613fe63-fe48-4f8c-a785-b9f151d1a7dd","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Spirit of the Dragon - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881773/Spirit-of-the-Dragon_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/cc567253-0ecd-4fd9-893d-3777d69fa4b9","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I'd Rather Be Watching My Murder Shows - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882600/TT-Id-Rather-Be-Watching-My-Murder-Shows_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/a36b9701-b0d8-4beb-86d4-5cda5ee7f179","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Reading is Magical - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/reading-is-magical-teeturtle-teeturtle-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/8d89fecd-26ff-4dac-a0a8-9fe4c4a8cfe6","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Dungeon Monster - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881117/Dungeon-Monster_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/0f204993-6f40-4ab6-b8d6-fd69b573cbfa","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Dark Side of the Kitsune - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/dark-side-of-the-kitsune-t-shirt-teeturtle-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/a412f61f-e5cc-4b0e-a063-e821529dab81","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Is it Friday Yet? - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882861/HKF-Is-it-Friday-Yet-_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/e1d6c674-14ae-4599-974e-cd4c92eb648b","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"I Love Rainy Days - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883080/TT-I-Love-Rainy-Days_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/5ffd9484-8415-46c2-9df6-95f00a528753","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Reads-o-lotl - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881286/Reads-O-Lotl_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/a5bbd5d2-6558-4279-9763-27c474a67beb","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Science is Literally Everything - $13","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882719/TT-SHIRT-Science-is-Literally-Everything_4200x4200_SEPS-1-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/82060f69-02fd-4bc8-a233-f9a822ce2153","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Prepare to Die (D20) - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881801/Prepare-To-Die-D20_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/ebb72f2a-3b82-4be6-8286-892fa1cd756c","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Blood Moon Dragon - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882178/TT-Blood-Moon-Dragon-SEPs-800x800-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/129d6a94-88d0-4b08-a610-248e4ad4eacb","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Never Skip Leg Day (Chun-Li) - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882882/CAP-Never-Skip-Leg-Day-Chun-Li_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/0ce2cf4f-2006-4ab5-b060-a66e3fe31423","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Dice Hoarder - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880619/Dice-Hoarder_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/7b0077ca-f60f-4e48-87f0-00e418d0f07f","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Dante Vs. Vergil - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882887/CAP-Dante-Vs-Vergil_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/643ccb46-4210-483a-87dd-c7067cefece8","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Don't Come Any Closer, You Devil - $12.50","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883009/CAP-Dont-Come-Any-Closer-You-Devil_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/045702ef-94de-4228-a895-b6837a1d7540","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Look, Santa! - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882282/TT---Look-Santa_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/2b5995fa-f6a7-43fb-9fc2-c1be6018b86e","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Animal Names - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880525/-Animal-names_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/bf6ca360-4f0c-4c33-aaca-eb0f5a4db87e","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Cosmic Kitty - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882482/TT-Cosmic-Kitty_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/d913c23a-6078-42f7-9f88-e6a2420b5bfc","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Mushroom Forest - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883045/TT-Mushroom-Forest_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/e0179ed9-5a35-4420-a59a-754e2a329bd4","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Murder is Wrong - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882072/TT-Murder-is-Wrong_SEPS800x800-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/ed9be326-5733-42f6-9b64-d2ce01dbd5e3","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Happy Hoo-lidays - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880263/Happy-Hoo-lidays_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/5a2af847-4271-4418-88a6-d7b8fd71241d","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Chaotic Neutral - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199882410/TT-Chaotic-Neutral_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/8750e6d3-c410-4e7b-9a43-35b4de5511e5","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Me? Sarcastic? Never. - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/me-sarcastic-never-t-shirt-teeturtle-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/a6cc88c3-ebf6-431d-9037-bee827fc4d61","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Christmas T-Rex - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880267/T-Rex-Christmas-Star_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/4e988204-f1d2-435e-9122-7f5962b0a1b1","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"My Tea Shirt - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199883016/TT-My-Tea-Shirt_4200x4200_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/f1e011e4-a7f2-483c-8c56-f0920f1af8f4","productPage":["description","price"],"badgeContent":"Sale!"}
+,
+{"title":"Games-o-lotl - $12","imgLink":"https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199881471/Games-O-Lotl_800x800_SEPS-500x500.jpg","imgClass":"card-img-top","productPageUrl":"http://vps-a47222b1.vps.ovh.net:8484/product/363f6862-76bf-4e87-a08d-9de457c852bc","productPage":["description","price"],"badgeContent":"Sale!"}
+,
