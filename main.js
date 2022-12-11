@@ -2,7 +2,9 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fetch = require('node-fetch');
 const fs = require('fs');
-const myConsole = new console.Console(fs.createWriteStream('./output.txt'));
+const { json } = require('express');
+const sep = ",";
+const myConsole = new console.Console(fs.createWriteStream('./output.json'));
 
 
 function nextPageOnUrl() {
@@ -19,8 +21,26 @@ function nextPageOnUrl() {
     return urlTab;
 }
 
+function changeMyFile (){
+
+fs.readFile('./output.json', 'utf8', (err, data) => {
+    if (err) throw err;
+  
+    // replace the last character with a new string
+    const newData = data.slice(0, -2) + ']';
+  
+    // write the updated data to the file
+    fs.writeFile('./output.json', newData, 'utf8', (err) => {
+      if (err) throw err;
+    });
+  });
+}
+
+ 
 
 //console.log(allLinks);
+
+
 const main = async (url) => {
     const response = await fetch(url);
     const html = await response.text();
@@ -32,19 +52,6 @@ const main = async (url) => {
     //let tab = [];
     const articles = $('.d-grid').children().map(function (i, e) {
 
-        // const title = $(this).find('.card-title').text();
-        // const imgLink = $(this).find('img').attr('src');
-        // const imgClass = $(this).find('img').attr('class');
-        // const productPageUrl = 'http://vps-a47222b1.vps.ovh.net:8484' + $(this).find('a').attr('href'); 
-        // const badgeContent = $(this).find('.badge').text();
-
-        // tabs.push({
-        //     title,
-        //     productPageUrl,
-        //     imgLink,
-        //     imgClass,
-        //     badgeContent
-        // });
         let tab = {
             title : $(this).find('.card-title').text(),
             imgLink : $(this).find('img').attr('src'),
@@ -56,15 +63,16 @@ const main = async (url) => {
 
         
         const json = JSON.stringify(tab)
-        console.log(json)+ console.log(",");
+        //console.log(json)+ console.log(",");
         
         //console.log(tab);
         //myConsole.log(tab);
-        myConsole.log(json) + myConsole.log(",");
+        myConsole.log(json) + myConsole.log(",")
         
         //return tab;
 
     })
+    //removeLastCharacter('./output.txt');
     //let articlesJson = JSON.stringify(articles);
     //console.dir(articlesJson, {'maxArrayLength': null, 'maxStringLength': null})
     //console.dir(articles, {'maxArrayLength': null})
@@ -81,13 +89,38 @@ while(i<8) {
     //console.log(urlTab[i])
     let url = allLinks[i];
     main(url);
+    //removeLastCharacter('./output.txt');
 
     i++;
 }
+myConsole.log("[");
+setTimeout(changeMyFile, 1500);
 
-//console.log(str);
-// const title = $(this).find('.card-title').text();
-//     const imgLink = $(this).find('img').attr('src');
-//     const imgClass = $(this).find('img').attr('class');
-//     const productPageUrl = 'http://vps-a47222b1.vps.ovh.net:8484' + $(this).find('a').attr('href'); 
-//     const badgeContent = $(this).find('.badge').text();
+
+setTimeout(function () {
+    fs.readFile("./output.json", "utf8", (err, data) => {
+        if (err) {
+        console.error(err);
+        return;
+        }
+    
+        let jsonData = JSON.parse(data)
+        //console.log(jsonData);
+        if (Array.isArray(jsonData)) {
+            jsonData.forEach(obj => {
+                console.log(obj.title);
+                console.log(obj.productPageUrl);
+            });
+        } else {
+            console.log("not an array");
+        }
+  })},2000)
+
+// async function removeLastCharacter(filename) {
+//         const stat = await fs.promises.stat(filename)
+//         const fileSize = stat.size
+      
+//         await fs.promises.truncate(filename, fileSize - 1)
+//         console.log(filename);
+    
+//     }
