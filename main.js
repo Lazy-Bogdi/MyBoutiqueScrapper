@@ -3,7 +3,6 @@ const cheerio = require('cheerio');
 const fetch = require('node-fetch');
 const fs = require('fs');
 const { json } = require('express');
-const sep = ",";
 const myConsole = new console.Console(fs.createWriteStream('./output.json'));
 
 
@@ -57,17 +56,36 @@ const main = async (url) => {
             imgLink : $(this).find('img').attr('src'),
             imgClass : $(this).find('img').attr('class'),
             productPageUrl : 'http://vps-a47222b1.vps.ovh.net:8484' + $(this).find('a').attr('href'),
-            productPage  : ["description","price"],
+            //productPage  : ["description","price"],
             badgeContent : $(this).find('.badge').text()
         };
 
+        let productPageUrl = tab.productPageUrl;
+        //console.log(productPageUrl);
+        async function productPageContent () {
+            const responseProductPage = await fetch(productPageUrl);
+            const htmlProductPage = await responseProductPage.text();
+
+            //console.log(htmlProductPage);
+            const $$ = cheerio.load(htmlProductPage);
+            const article = $$('.pb-3').children().map(function (i, e) {
+                let tabProduct = {
+                    productPage  : [$$(this).find('p').text(), $$(this).find('h3').text()],
+                }
+                // const nonEmptyLines = tabProduct.productPage.map(line => line.filter(element => element.trim() !== ""));
+                // console.log(nonEmptyLines);
+                return tabProduct;
+            }).get();
+            console.log(article);
+        }
+        productPageContent();
         
-        const json = JSON.stringify(tab)
+        const json = JSON.stringify(tab);
         //console.log(json)+ console.log(",");
         
-        //console.log(tab);
+        //console.log(tab.productPageUrl);
         //myConsole.log(tab);
-        myConsole.log(json) + myConsole.log(",")
+        myConsole.log(json) + myConsole.log(",");
         
         //return tab;
 
@@ -81,6 +99,8 @@ const main = async (url) => {
     
 };
 
+
+
 let i = 0;
 
 allLinks = nextPageOnUrl();
@@ -88,7 +108,7 @@ allLinks = nextPageOnUrl();
 while(i<8) {
     //console.log(urlTab[i])
     let url = allLinks[i];
-    main(url);
+    main(url)
     //removeLastCharacter('./output.txt');
 
     i++;
@@ -108,8 +128,7 @@ setTimeout(function () {
         //console.log(jsonData);
         if (Array.isArray(jsonData)) {
             jsonData.forEach(obj => {
-                console.log(obj.title);
-                console.log(obj.productPageUrl);
+                //console.log(obj.productPageUrl);
             });
         } else {
             console.log("not an array");
