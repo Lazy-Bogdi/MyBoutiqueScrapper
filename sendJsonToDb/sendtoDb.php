@@ -27,7 +27,7 @@ foreach ($data as $row) {
         'value1' => $row->title,
         'value2' => $row->imgLink,
         'value3' => $row->imgClass,
-        'value4' => $row->productpageUrl,
+        'value4' => $row->productPageUrl,
         'value5' => $row->badgeContent,
     ]);
 }
