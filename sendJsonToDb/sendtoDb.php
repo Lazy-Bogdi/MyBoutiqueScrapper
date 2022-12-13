@@ -4,7 +4,7 @@
 $host = 'localhost';
 $user = 'root';
 $password = '';
-$database = 'myboutiquescrapper';
+$database = 'scrapper';
 
 // Connect to the database
 try {
