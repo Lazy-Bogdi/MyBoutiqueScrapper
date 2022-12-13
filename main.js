@@ -60,25 +60,30 @@ const main = async (url) => {
             badgeContent : $(this).find('.badge').text()
         };
 
-        let productPageUrl = tab.productPageUrl;
-        //console.log(productPageUrl);
-        async function productPageContent () {
-            const responseProductPage = await fetch(productPageUrl);
-            const htmlProductPage = await responseProductPage.text();
 
-            //console.log(htmlProductPage);
-            const $$ = cheerio.load(htmlProductPage);
-            const article = $$('.pb-3').children().map(function (i, e) {
-                let tabProduct = {
-                    productPage  : [$$(this).find('p').text(), $$(this).find('h3').text()],
-                }
-                // const nonEmptyLines = tabProduct.productPage.map(line => line.filter(element => element.trim() !== ""));
-                // console.log(nonEmptyLines);
-                return tabProduct;
-            }).get();
-            console.log(article);
-        }
-        productPageContent();
+  // Iterate over the selected elements and extract the links
+  elements.each((index, element) => {
+    const link = $(element).attr('href');
+
+    // Make an HTTP request to the link
+    const response = await fetch(link);
+
+    // Parse the HTML from the response
+    const $ = cheerio.load(await response.text());
+
+    // Select the elements on the page that contain the data you want to scrape
+    const elements = $('selector-for-the-elements-you-want-to-scrape');
+
+    // Iterate over the selected elements and extract the data you want
+    elements.each((index, element) => {
+      const data = $(element).text();
+      console.log(data);
+    });
+  });
+
+
+scrapeData();
+
         
         const json = JSON.stringify(tab);
         //console.log(json)+ console.log(",");
@@ -143,3 +148,4 @@ setTimeout(function () {
 //         console.log(filename);
     
 //     }
+
