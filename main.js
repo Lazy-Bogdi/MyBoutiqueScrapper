@@ -51,7 +51,7 @@ const main = async (url) => {
     const $ = cheerio.load(html);
     //let tabs = [];
     //let tab = [];
-    const articles = $('.d-grid').children().map(function (i, e) {
+    $('.d-grid').children().map(function (i, e) {
 
         let tab = {
             title : $(this).find('.card-title').text(),
@@ -92,13 +92,12 @@ const notMain = async (url) => {
     //console.log(html);
 
     const $ = cheerio.load(html);
-    let tabs = [];
-    let tab = [];
-    const articles = $('.pb-3').each(function (i, e) {
+    $('.pb-3').each(function (i, e) {
 
         let tab = {
             urLone : url,
-            description : $(this).find('.p-1').find('h3').text().trim().replace('\n', '').replace(' ', '')
+            price : $(this).find('.p-1').find('h3').text().trim().replace('\n', '').replace(' ', ''),
+            description : $(this).find('.p-1').find('p').text()
         };
 
         
@@ -118,91 +117,62 @@ const notMain = async (url) => {
 };
 
 /*******************************************************/
+const outputJson = async () => {
+    let i = 0;
+    let allLinks = await nextPageOnUrl();
+    myConsole.log("[");
+  
+    while(i < 8) {
+      let url = allLinks[i];
+      await main(url);
+  
+      i++;
+    }  
+    
 
+    changeMyFile("./output.json");
+
+     }
+
+
+
+/*******************************************************/
+
+    const outputOnlyProduct = async () => {
+        const data =  require('./output.json');
+      
+        const getDataArray = () => {
+          const dataArray = [];
+      
+          for (let i = 0; i < data.length; i++) {
+            let currentString = '';
+      
+            currentString = currentString + data[i]['productPageUrl'];
+      
+            dataArray.push(currentString);
+          }
+      
+          return dataArray;
+        }
+      
+        let j = 0;
+        let urlP = '';
+        const dataArray = getDataArray(); 
+      
+        myConsoleProduct.log('[');
+        while (j < dataArray.length) {
+          urlP = dataArray[j];
+          j++;
+          await notMain(urlP);
+        }
+        changeMyFile('./productDescriptionPage.json');
+      }
 
 /************************************FIN FONCTIONS************************************/
 
-let i = 0;
-allLinks = nextPageOnUrl();
-
-while(i<8) {
-    //console.log(urlTab[i])
-    let url = allLinks[i];
-    main(url)
-    //removeLastCharacter('./output.txt');
-
-    i++;
-}
-myConsole.log("[");
-setTimeout(function(){
-    changeMyFile("./output.json");
-}, 500);
 
 
-// setTimeout(function () {
-//     fs.readFile("./output.json", "utf8", (err, data) => {
-//         if (err) {
-//         console.error(err);
-//         return;
-//         }
-    
-//         let jsonData = JSON.parse(data)
-//         //console.log(jsonData);
-//         if (Array.isArray(jsonData)) {
-//             jsonData.forEach(obj => {
-//                 //console.log(obj.productPageUrl);
-//             });
-//         } else {
-//             console.log("not an array");
-//         }
-//   })},2000);
+  outputJson(); 
 
-
-
-setTimeout(function(){
-    const data = require('./output.json');
-
-
-    function getDataArray() {
-
-        const dataArray = [];
-      
-    
-        for (let i = 0; i < data.length; i++) {
-            let currentString = '';
-      
-            
-            currentString = currentString + data[i]['productPageUrl'];
-            
-    
-            dataArray.push(currentString);
-        }
-      
-        //Return the dataArray
-        return dataArray;
-      }
-
-
-
-    let j=0;
-    let urlP = '';
-    const dataArray = getDataArray(); 
-    
-     
-    myConsoleProduct.log('[');
-    while (j < dataArray.length) {
-        
-        urlP = dataArray[j];
-        // console.log(dataArray[j]); 
-        // console.log(urlP);
-        j++;
-        notMain(urlP);
-
-    }
-    setTimeout(function() {
-        changeMyFile('./productDescriptionPage.json');
-    },601)
-        
-    },600);
-  
+ setTimeout(outputOnlyProduct,2000);
 
