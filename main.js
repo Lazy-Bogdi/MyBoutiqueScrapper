@@ -3,8 +3,8 @@ const cheerio = require('cheerio');
 const fetch = require('node-fetch');
 const fs = require('fs');
 //const { json } = require('express');
-const myConsole = new console.Console(fs.createWriteStream('./output.json'));
-const myConsoleProduct = new console.Console(fs.createWriteStream('./productDescriptionPage.json'));
+const myConsole = new console.Console(fs.createWriteStream('./jsonDatasOutput/output.json'));
+const myConsoleProduct = new console.Console(fs.createWriteStream('./jsonDatasOutput/productDescriptionPage.json'));
 
 
 /************************************FONCTIONS************************************/
@@ -130,7 +130,7 @@ const outputJson = async () => {
     }  
     
 
-    changeMyFile("./output.json");
+    changeMyFile("./jsonDatasOutput/output.json");
 
      }
 
@@ -139,7 +139,7 @@ const outputJson = async () => {
 /*******************************************************/
 
     const outputOnlyProduct = async () => {
-        const data =  require('./output.json');
+        const data =  require('./jsonDatasOutput/output.json');
       
         const getDataArray = () => {
           const dataArray = [];
@@ -165,7 +165,7 @@ const outputJson = async () => {
           j++;
           await notMain(urlP);
         }
-        changeMyFile('./productDescriptionPage.json');
+        changeMyFile('./jsonDatasOutput/productDescriptionPage.json');
       }
 
 /************************************FIN FONCTIONS************************************/

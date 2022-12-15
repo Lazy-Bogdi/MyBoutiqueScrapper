@@ -30,7 +30,7 @@
 
         if($_POST['hidden'] == "first"){
             // Read the contents of the JSON file
-            $json = file_get_contents('../output.json');
+            $json = file_get_contents('../jsonDatasOutput/output.json');
             $data = json_decode($json);
 
             // Insert the data into the database
@@ -48,7 +48,7 @@
         }
 
         elseif($_POST['hidden'] == "second"){
-            $json = file_get_contents('../productDescriptionPage.json');
+            $json = file_get_contents('../jsonDatasOutput/productDescriptionPage.json');
             $data = json_decode($json);
 
             foreach ($data as $row) {
