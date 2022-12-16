@@ -1,8 +1,6 @@
-const axios = require('axios');
 const cheerio = require('cheerio');
 const fetch = require('node-fetch');
 const fs = require('fs');
-//const { json } = require('express');
 const myConsole = new console.Console(fs.createWriteStream('./jsonDatasOutput/output.json'));
 const myConsoleProduct = new console.Console(fs.createWriteStream('./jsonDatasOutput/productDescriptionPage.json'));
 
@@ -39,7 +37,7 @@ fs.readFile(urlJsonFile, 'utf8', (err, data) => {
 
  /*********************************************************/
 
-//console.log(allLinks);
+
 
 
 const main = async (url) => {
@@ -58,6 +56,7 @@ const main = async (url) => {
             imgLink : $(this).find('img').attr('src'),
             imgClass : $(this).find('img').attr('class'),
             productPageUrl : 'http://vps-a47222b1.vps.ovh.net:8484' + $(this).find('a').attr('href'),
+            idUrl : $(this).find('a').attr('href').replace(/-|\/product\//g, ''),
             //productPage  : ["description","price"],
             badgeContent : $(this).find('.badge').text()
         };
@@ -96,6 +95,7 @@ const notMain = async (url) => {
 
         let tab = {
             urLone : url,
+            idUrl : url.replace(/http:\/\/vps-a47222b1\.vps\.ovh\.net:8484|-|\/product\//g, ''),
             price : $(this).find('.p-1').find('h3').text().trim().replace('\n', '').replace(' ', ''),
             description : $(this).find('.p-1').find('p').text()
         };
