@@ -35,7 +35,7 @@
 
             // Insert the data into the database
             foreach ($data as $row) {
-                $sql = "INSERT INTO articles (title, imgLink, imgClass, productpageUrl, badgeContent) VALUES (:value1, :value2, :value3, :value4, :value5)";
+                $sql = "INSERT INTO articles (title, imgLink, imgClass, productpageUrl, badgeContent, idUrl) VALUES (:value1, :value2, :value3, :value4, :value5, :value6)";
                 $stmt = $db->prepare($sql);
                 $stmt->execute([
                     'value1' => $row->title,
@@ -43,6 +43,7 @@
                     'value3' => $row->imgClass,
                     'value4' => $row->productPageUrl,
                     'value5' => $row->badgeContent,
+                    'value6' => $row->idUrl
                 ]);
             }
         }
@@ -52,12 +53,13 @@
             $data = json_decode($json);
 
             foreach ($data as $row) {
-                $sql = "INSERT INTO description_articles (productPageUrl, description, price) VALUES (:value1, :value2, :value3)";
+                $sql = "INSERT INTO description_articles (productPageUrl, price, description, idUrl) VALUES (:value1, :value2, :value3, :value4)";
                 $stmt = $db->prepare($sql);
                 $stmt->execute([
                     'value1' => $row->urLone,
                     'value2' => $row->price,
-                    'value3' => $row->description
+                    'value3' => $row->description,
+                    'value4' => $row->idUrl
                 ]);
             }
         }
