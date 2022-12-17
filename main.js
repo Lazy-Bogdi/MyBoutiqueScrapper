@@ -97,6 +97,7 @@ const notMain = async (url) => {
             urLone : url,
             idUrl : url.replace(/http:\/\/vps-a47222b1\.vps\.ovh\.net:8484|-|\/product\//g, ''),
             price : $(this).find('.p-1').find('h3').text().trim().replace('\n', '').replace(' ', ''),
+            titleProduct : $(this).find('.display-4').text(),
             description : $(this).find('.p-1').find('p').text()
         };
 

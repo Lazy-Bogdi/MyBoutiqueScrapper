@@ -53,13 +53,14 @@
             $data = json_decode($json);
 
             foreach ($data as $row) {
-                $sql = "INSERT INTO description_articles (productPageUrl, price, description, idUrl) VALUES (:value1, :value2, :value3, :value4)";
+                $sql = "INSERT INTO description_articles (productPageUrl, price, description, idUrl, titleProduct) VALUES (:value1, :value2, :value3, :value4, :value5)";
                 $stmt = $db->prepare($sql);
                 $stmt->execute([
                     'value1' => $row->urLone,
                     'value2' => $row->price,
                     'value3' => $row->description,
-                    'value4' => $row->idUrl
+                    'value4' => $row->idUrl,
+                    'value5' => $row->titleProduct
                 ]);
             }
         }

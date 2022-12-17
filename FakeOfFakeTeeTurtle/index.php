@@ -7,8 +7,9 @@
     
   </head>
   <body>
-    <h1>FakeOfFakeTeeTurtle</h1>
+    <h1 class= "display-4"><a href ="http://vps-7cceaa46.vps.ovh.net/MyBoutiqueScrapper/FakeOfFakeTeeTurtle/">FakeOfFakeTeeTurtle</a></h1>
     <div class="container">
+      <h2 class= "display-4">Products</h2>
       <div class="row">
         <?php
           // Connect to the database and get the items
@@ -35,10 +36,13 @@
 
         foreach ($items as $item) : ?>
           <div class='grid-item'>
-            <diV><?= $item['title'] ?></div>
-            <diV><?= $item['badgeContent'] ?></div>
-           <form method="POST" action="article.php"> <input type="hidden" name="productId" value="<?= $item['idUrl'] ?>">
-            <button type = "submit">Go to Page!</button></form>
+            <div><img src="<?=$item['imgLink']?>" class="<?= $item['imgClass']?>"></div>
+            <diV><h5 class="card-title"><?= $item['title'] ?></h5></div>
+            <diV><span class="badge bg-success"><?= $item['badgeContent'] ?><span></div>
+            <form method="POST" action="article.php">
+              <input type="hidden" name="productId" value="<?= $item['idUrl'] ?>">
+              <button type = "submit" class="btn btn-primary">Go to Page!</button>
+            </form>
           </div>
           <?php endforeach; ?>
         

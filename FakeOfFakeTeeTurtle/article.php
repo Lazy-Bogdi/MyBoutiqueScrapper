@@ -1,6 +1,12 @@
 <html>
   <head>
-    <title>My Item Details</title>
+  <head>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+    <title>FakeOfFakeTeeTurtle - Item Details </title>
+    
+  </head>
   </head>
   <body>
     <h1>My Item Details</h1>
@@ -29,9 +35,26 @@
       $stmt->execute(['idUrl' => $itemId]);
       $item = $stmt->fetch();
     ?>
-    <div>
-      <h2><?= $item['title'] ?></h2>
-      <p><?= $item['description'] ?></p>
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+          <h2><?= $item['titleProduct'] ?></h2>
+        </div>
+        <div class="col-6">
+        
+        </div>
+        <div class="col-6">
+          <img src="<?= $item['imgLink'] ?>"></p>
+        </div>
+        <div class="col-6">
+        <?= $item['price'] ?>
+          <p><?= $item['description'] ?></p>
+          <a class="btn btn-success" href="http://vps-7cceaa46.vps.ovh.net/MyBoutiqueScrapper/FakeOfFakeTeeTurtle/">Order Now !</a>
+        </div>
+
+      </div>
     </div>
+     
+
   </body>
 </html>
