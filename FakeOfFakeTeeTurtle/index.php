@@ -14,19 +14,7 @@
         <?php
           // Connect to the database and get the items
            // Connection variables
-        $host = 'localhost';
-        $user = 'root';
-        $password = 'admin';
-        $database = 'scrapper';
-
-        // Connect to the database
-        try {
-            $db = new PDO("mysql:host=$host;dbname=$database", $user, $password);
-            $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-        } catch (PDOException $e) {
-            echo 'Connection failed: ' . $e->getMessage();
-            exit;
-        }
+           require('../dbConnection.php');
           $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
           $perPage = 16;
           $offset = $perPage * ($page - 1);

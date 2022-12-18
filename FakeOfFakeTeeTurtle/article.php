@@ -11,20 +11,7 @@
   <body>
     <h1>My Item Details</h1>
     <?php
-
-      $host = 'localhost';
-      $user = 'root';
-      $password = 'admin';
-      $database = 'scrapper';
-
-      try {
-          $db = new PDO("mysql:host=$host;dbname=$database", $user, $password);
-          $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-      } catch (PDOException $e) {
-          echo 'Connection failed: ' . $e->getMessage();
-          exit;
-      }
-
+require('../dbConnection.php');
 
 
       $itemId = $_POST['productId'];
@@ -47,7 +34,7 @@
           <img src="<?= $item['imgLink'] ?>"></p>
         </div>
         <div class="col-6">
-        <?= $item['price'] ?>
+        <h3><?= $item['price'] ?></h3>
           <p><?= $item['description'] ?></p>
           <a class="btn btn-success" href="http://vps-7cceaa46.vps.ovh.net/MyBoutiqueScrapper/FakeOfFakeTeeTurtle/">Order Now !</a>
         </div>

@@ -11,22 +11,11 @@
 
 
 <?php
+require('../dbConnection.php');
 
     if(isset($_POST['produits']) && isset($_POST['hidden'])) {
         // Connection variables
-        $host = 'localhost';
-        $user = 'root';
-        $password = 'admin';
-        $database = 'scrapper';
 
-        // Connect to the database
-        try {
-            $db = new PDO("mysql:host=$host;dbname=$database", $user, $password);
-            $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-        } catch (PDOException $e) {
-            echo 'Connection failed: ' . $e->getMessage();
-            exit;
-        }
 
         if($_POST['hidden'] == "first"){
             // Read the contents of the JSON file
