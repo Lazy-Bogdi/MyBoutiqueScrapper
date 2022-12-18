@@ -16,7 +16,7 @@
         // Connection variables
         $host = 'localhost';
         $user = 'root';
-        $password = '';
+        $password = 'admin';
         $database = 'scrapper';
 
         // Connect to the database
