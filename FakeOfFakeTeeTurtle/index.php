@@ -14,7 +14,7 @@
         <?php
           // Connect to the database and get the items
            // Connection variables
-        $host = 'localhost';
+        $host = 'vps-7cceaa46';
         $user = 'root';
         $password = '';
         $database = 'scrapper';

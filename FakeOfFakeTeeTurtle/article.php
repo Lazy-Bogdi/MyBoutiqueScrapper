@@ -12,7 +12,7 @@
     <h1>My Item Details</h1>
     <?php
 
-      $host = 'localhost';
+      $host = 'vps-7cceaa46';
       $user = 'root';
       $password = '';
       $database = 'scrapper';
